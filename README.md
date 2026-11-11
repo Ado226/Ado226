@@ -7,7 +7,7 @@ Je conçois des produits web et mobiles de bout en bout : interface, API, donné
 *I build web and mobile products end to end: interface, API, data, tests and deployment.*
 
 ## 🎓 Certifications
-- **Google Data Analytics Professional Certificate** (2026) — SQL (BigQuery), tableurs, Tableau, Python (pandas), étude de cas
+- **Google Data Analytics Professional Certificate** (2026) — SQL (BigQuery), tableurs, Tableau, Python (pandas), étude de cas · [vérifier / verify](https://www.coursera.org/verify/specialization/65Q42IMCO9S3)
 - **Google Project Management Professional Certificate** (2026) — Agile/Scrum, planification, exécution · [vérifier / verify](https://coursera.org/verify/professional-cert/6TAWPRYOYPN8)
 - **Licence MIAGE** — Méthodes informatiques appliquées à la gestion · IBAM, 2024
 
